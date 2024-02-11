@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 li.style.borderBottom = 'none';
             });
 
-            tab.style.borderBottom = '3px solid #fff';
+            tab.style.borderBottom = '3px solid #fbab04';
         });
     });
 

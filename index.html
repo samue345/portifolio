@@ -9,6 +9,7 @@
 
 </head>
 <body>
+  
     <header>
       <nav>
         <ul class="flex">
@@ -16,11 +17,13 @@
           <li><a href="https://www.linkedin.com/in/samuel-souza-660934194/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
         </ul>
       </nav>
-      <h1>
-        Hello, my name is <strong>Samuel Souza!!</strong><br/>
-        I am Web Developer
-
-      </h1>
+      <div class="caixa_header">
+        <h1>
+          Hello, my name is <span>Samuel Souza!!</span><br/>
+          I am Web Developer
+        </h1>
+        <img src="imgs/foto.jpg" alt="" id="img_perfil">
+      </div>
     </header>
     <main>
         <nav>
@@ -33,38 +36,41 @@
         <div class="tab-content">
             <section  class="tabs__tab active" id="tab_1" data-tab-info>
                 <div class="carousel-container">
-                  <section class="card"> 
-                      <div class="image-carousel">
-                        <img src="imgs/alueasy2.webp" alt="foto da republica">
-                      </div>
-                      <section id="desc">
-                        <h3>Descrição</h3>
-                          <p>
-                            aluEasy helps university students find University Housing quickly, conveniently and while spending little money
-                          </p>
-                      </section>
-                  </section>
+                  <a href="/projects/alueasy.html">
+                    <section class="card"> 
+                        <div class="image-carousel">
+                          <img src="imgs/alueasy.webp" alt="foto da republica">
+                        </div>
+                        <section id="desc">
+                          <h3>Descrição</h3>
+                            <h2>
+                              aluEasy helps university students find University Housing quickly, conveniently and while spending little money
+                            </h2>
+                            <p>click for see more</p>
+                        </section>
+                    </section>
+                </a>
                 </div>
             </section>
             <section class="tabs__tab" id="tab_2" data-tab-info>
               <div class="container">
                 <h2>about</h2>
-                <p>
+                <p class="text">
                   My name is Samuel, I'm a web developer and i born in São paulo capital. I've already created websites with laravel/php, Node/Express.
                   I am currently CTO and founder of aluEasy, a startup in the real estate sector. Basically, alueasy helps university students find housing near the university.
                 </p>
             </div>
             </section>
             <section class="tabs__tab" id="tab_3" data-tab-info>
-              <div class="container">
+              <div class="container_academic">
                   <h2>Formação academica</h2>
                   <div class="flex">
                     <img src="/imgs/ufsm.png" alt="imagem do brasão da ufsm" class="img_ufsm">
-                    <p>UFSM - Universidade Federal de Santa Maria</p>
+                    <p class="text">UFSM - Universidade Federal de Santa Maria</p>
                 </div>
 
                 <h2>skills</h2>
-                  <ul>
+                  <ul class="lista_stacks">
                     <li>Laravel/PHP</li>
                     <li>JavaScript</li>
                     <li>Vue/js</li>
@@ -76,7 +82,7 @@
 
                   </ul>
                 <h2>Linguages</h2>
-                <ul>
+                <ul class="lista_stacks">
                     <li>Português - native</li>
                     <li>English - basic</li>
                 </ul>
