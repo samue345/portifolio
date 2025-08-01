@@ -25,7 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Felipe Colpo Bagesteiro - Data Engineer</title>
+        <title>Samuel Souza Pereira Nunes - Software Engineer</title>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}

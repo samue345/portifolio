@@ -23,7 +23,7 @@ export default function Contact() {
                                         </div>
                                         <div className="text-left">
                                             <p className="text-sm text-gray-600 dark:text-gray-400">Email</p>
-                                            <a href="mailto:felipebagesteiro@gmail.com" className="text-gray-900 text-sm md:text-base dark:text-white hover:text-blue-500 dark:hover:text-blue-400 transition-colors text-left">felipebagesteiro@gmail.com</a>
+                                            <a href="mailto:felipebagesteiro@gmail.com" className="text-gray-900 text-sm md:text-base dark:text-white hover:text-blue-500 dark:hover:text-blue-400 transition-colors text-left">samuef339@gmail.com</a>
                                         </div>
                                     </div>
                                     <div className="flex items-center space-x-4">
@@ -34,7 +34,7 @@ export default function Contact() {
                                         </div>
                                         <div className="text-left">
                                             <p className="text-sm text-gray-600 dark:text-gray-400">Phone</p>
-                                            <a href="tel:+5555997270241" className="text-gray-900 text-sm md:text-base dark:text-white hover:text-blue-500 dark:hover:text-blue-400 transition-colors text-left">+55 55 997270241</a>
+                                            <a href="tel:+5511954694681" className="text-gray-900 text-sm md:text-base dark:text-white hover:text-blue-500 dark:hover:text-blue-400 transition-colors text-left">+55 11 95469-4681</a>
                                         </div>
                                     </div>
                                     <div className="flex items-center space-x-4">
@@ -46,7 +46,7 @@ export default function Contact() {
                                         </div>
                                     <div className="text-left">
                                         <p className="text-sm text-gray-600 dark:text-gray-400">Location</p>
-                                        <p className="text-gray-900 dark:text-white text-left text-sm md:text-base">Santa Maria, Brazil</p>
+                                        <p className="text-gray-900 dark:text-white text-left text-sm md:text-base">São Paulo - SP, Brazil</p>
                                     </div>
                                 </div>
                             </div>
@@ -58,13 +58,13 @@ export default function Contact() {
                                 <div className="space-y-6">
                                     <div className="flex items-center space-x-4">
                                         <div className="p-2 md:p-3 bg-blue-100 dark:bg-blue-900/30 rounded-lg">
-                                            <a href="https://www.linkedin.com/in/felipe-colpo-b4a84217b/" target="_blank" rel="noreferrer">
+                                            <a href="www.linkedin.com/in/samuel-souza-p-dev" target="_blank" rel="noreferrer">
                                                 <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin" />
                                             </a>
                                         </div>
                                         <div className="text-left">
                                             <p className="text-sm text-gray-600 dark:text-gray-400">Linkedin</p>
-                                            <a href="https://www.linkedin.com/in/felipe-colpo-b4a84217b/" target="_blank" rel="noreferrer" className="text-gray-900 text-sm md:text-base dark:text-white hover:text-blue-500 dark:hover:text-blue-400 transition-colors text-left">Felipe Bagesteiro</a>
+                                            <a href="www.linkedin.com/in/samuel-souza-p-dev" target="_blank" rel="noreferrer" className="text-gray-900 text-sm md:text-base dark:text-white hover:text-blue-500 dark:hover:text-blue-400 transition-colors text-left">Samuel Souza</a>
                                         </div>
                                         <div className="p-2 md:p-3 bg-blue-100 dark:bg-blue-900/30 rounded-lg">
                                             <a href="https://github.com/Strke12i" target="_blank" rel="noreferrer">
@@ -73,7 +73,7 @@ export default function Contact() {
                                         </div>
                                         <div className="text-left">
                                             <p className="text-sm text-gray-600 dark:text-gray-400">Github</p>
-                                            <a href="https://github.com/Strke12i" target="_blank" rel="noreferrer" className="text-gray-900 text-sm md:text-base dark:text-white hover:text-blue-500 dark:hover:text-blue-400 transition-colors text-left">Strke12i</a>
+                                            <a href="https://github.com/samue345" target="_blank" rel="noreferrer" className="text-gray-900 text-sm md:text-base dark:text-white hover:text-blue-500 dark:hover:text-blue-400 transition-colors text-left">Samuel Souza</a>
                                         </div>
                                     </div>
                                 </div>

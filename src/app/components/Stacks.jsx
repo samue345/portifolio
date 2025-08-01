@@ -20,25 +20,10 @@ export default function Stacks() {
                                 <h3 className="text-lg font-semibold">Databases</h3>
                         </div>
                         <div className="grid grid-cols-2 gap-4">
-                            <Stack name="Supabase" text="Open source Firebase alternative" url="https://supabase.com/favicon/apple-icon-57x57.png"/>
-                            <Stack url="https://firebase.google.com/favicon.ico" name="Firebase" text="Realtime database and storage"/>
+                            <Stack name="MySQL" text="Open source Firebase alternative" url="images/mysql.png"/>
+                            <Stack url="images/redis.png" name="Redis"/>
                             <Stack name="Postgres" text="The world's most advanced open source database" url="https://www.postgresql.org/media/img/about/press/elephant.png"/>
                             <Stack name="MongoDB" text="The most popular database for modern apps" url="https://www.mongodb.com/assets/images/global/favicon.ico"/>
-                        </div>
-                    </div>
-                    <div className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-lg" >
-                        <div className="flex items-center gap-3 mb-4 text-gray-900 dark:text-white">
-                            <span className="text-xl">
-                                <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M480 160H32c-17.673 0-32-14.327-32-32V64c0-17.673 14.327-32 32-32h448c17.673 0 32 14.327 32 32v64c0 17.673-14.327 32-32 32zm-48-88c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24zm-64 0c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24zm112 248H32c-17.673 0-32-14.327-32-32v-64c0-17.673 14.327-32 32-32h448c17.673 0 32 14.327 32 32v64c0 17.673-14.327 32-32 32zm-48-88c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24zm-64 0c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24zm112 248H32c-17.673 0-32-14.327-32-32v-64c0-17.673 14.327-32 32-32h448c17.673 0 32 14.327 32 32v64c0 17.673-14.327 32-32 32zm-48-88c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24zm-64 0c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24z"></path>
-                                </svg>
-                            </span>
-                            <h3 className="text-lg font-semibold">Automation</h3>
-                        </div>
-                        <div className="grid grid-cols-2 gap-4">
-                            <Stack url="https://n8n.io/favicon.ico" name="n8n" text="Workflow automation tool"/>
-                            <Stack url="./images/zapier.png" name="Zapier" text="Connect your apps and automate workflows"/>
-                            <Stack name="make" text="Make websites accessible for AI agents" url="//cdn.make.com/img/make/favicon-32x32.png"/>
                         </div>
                     </div>
                     <div className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-lg" >
@@ -107,10 +92,10 @@ export default function Stacks() {
                             <h3 className="text-lg font-semibold">Languages</h3>
                         </div>
                         <div className="grid grid-cols-2 gap-4">
-                            <Stack url="https://www.rust-lang.org/static/images/favicon-32x32.png" name="Rust" text="A language empowering everyone to build reliable and efficient software"/>
-                            <Stack url="https://www.typescriptlang.org/favicon.ico" name="TypeScript" text="Typed superset of JavaScript"/>
-                            <Stack url="https://www.python.org/favicon.ico" name="Python" text="The fastest growing programming language"/>
-                            <Stack url="https://www.golang.org/favicon.ico" name="Go" text="Open source programming language that makes it easy to build simple, reliable, and efficient software"/>
+                            <Stack url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" name="Laravel"/>
+                            <Stack url="images/php.png" name="PHP" text="Open source programming language that makes it easy to build simple, reliable, and efficient software"/>
+                            <Stack url="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" name="TypeScript" text="Typed superset of JavaScript"/>
+                            <Stack url="nodejs.svg" name="Node.js" text="The fastest growing programming language"/>
                         </div>
                     </div>
                 </div>

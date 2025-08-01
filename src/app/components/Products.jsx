@@ -55,9 +55,9 @@ export default function Products() {
 
                             <div className="flex-1">
                                 <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
-                                    Automations
+                                    Web Applications
                                 </h3>
-                                <p className="text-gray-600 dark:text-gray-400"> Making the greatest automations to improve your work</p>
+                                <p className="text-gray-600 dark:text-gray-400">Building responsive and performant web applications.</p>
                                 <div className="h-0.5 mt-4 bg-gradient-to-r from-green-500 to-green-600"></div>
                             </div>
                         </div>
@@ -71,10 +71,10 @@ export default function Products() {
 
                             <div className="flex-1">
                                 <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
-                                    Data Analysis
+                                    API Development
                                 </h3>
                                 <p className="text-gray-600 dark:text-gray-400"> 
-                                    Analyzing data to help your business to achieve the best results
+                                    Designing and implementing scalable RESTful and GraphQL APIs.
                                 </p>
                                 <div className="h-0.5 mt-4 bg-gradient-to-r from-yellow-500 to-yellow-600"></div>
                             </div>
@@ -89,10 +89,10 @@ export default function Products() {
 
                             <div className="flex-1">
                                 <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
-                                    Web Scraping
+                                System Architecture
                                 </h3>
                                 <p className="text-gray-600 dark:text-gray-400"> 
-                                    Scraping data from the web to help you find the best information for your business
+                                    Structuring clean, maintainable, and scalable applications.
                                 </p>
                                 <div className="h-0.5 mt-4 bg-gradient-to-r from-purple-500 to-purple-600"></div>
                             </div>
